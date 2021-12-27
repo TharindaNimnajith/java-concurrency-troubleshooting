@@ -17,14 +17,26 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="troubleshoot-latency-conc" target="1.5" />
-      <module name="troubleshoot-latency-conc (1)" target="1.5" />
-      <module name="troubleshoot-latency-conc (2)" target="1.5" />
-      <module name="troubleshoot-latency-conc (3)" target="1.5" />
-      <module name="troubleshoot-latency-conc (4)" target="1.5" />
-      <module name="troubleshoot-latency-conc (5)" target="1.5" />
-      <module name="troubleshoot-latency-conc (6)" target="1.5" />
-      <module name="troubleshoot-latency-conc (7)" target="1.5" />
+      <module name="troubleshoot-latency-conc" target="11" />
+      <module name="troubleshoot-latency-conc (1)" target="11" />
+      <module name="troubleshoot-latency-conc (2)" target="11" />
+      <module name="troubleshoot-latency-conc (3)" target="11" />
+      <module name="troubleshoot-latency-conc (4)" target="11" />
+      <module name="troubleshoot-latency-conc (5)" target="11" />
+      <module name="troubleshoot-latency-conc (6)" target="11" />
+      <module name="troubleshoot-latency-conc (7)" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="troubleshoot-latency-conc" options="-parameters" />
+      <module name="troubleshoot-latency-conc (1)" options="-parameters" />
+      <module name="troubleshoot-latency-conc (2)" options="-parameters" />
+      <module name="troubleshoot-latency-conc (3)" options="-parameters" />
+      <module name="troubleshoot-latency-conc (4)" options="-parameters" />
+      <module name="troubleshoot-latency-conc (5)" options="-parameters" />
+      <module name="troubleshoot-latency-conc (6)" options="-parameters" />
+      <module name="troubleshoot-latency-conc (7)" options="-parameters" />
+    </option>
   </component>
 </project>
