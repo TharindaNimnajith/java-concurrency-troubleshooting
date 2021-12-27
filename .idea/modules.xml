@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/concurrency-troubleshooting.iml" filepath="$PROJECT_DIR$/.idea/concurrency-troubleshooting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_03_End/troubleshoot-latency-conc.iml" filepath="$PROJECT_DIR$/02_03_End/troubleshoot-latency-conc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_08_End/troubleshoot-latency-conc (1).iml" filepath="$PROJECT_DIR$/02_08_End/troubleshoot-latency-conc (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_09_End/troubleshoot-latency-conc (2).iml" filepath="$PROJECT_DIR$/02_09_End/troubleshoot-latency-conc (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_10_End/troubleshoot-latency-conc (3).iml" filepath="$PROJECT_DIR$/02_10_End/troubleshoot-latency-conc (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_03_Begin/troubleshoot-latency-conc (4).iml" filepath="$PROJECT_DIR$/02_03_Begin/troubleshoot-latency-conc (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_08_Begin/troubleshoot-latency-conc (5).iml" filepath="$PROJECT_DIR$/02_08_Begin/troubleshoot-latency-conc (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_09_Begin/troubleshoot-latency-conc (6).iml" filepath="$PROJECT_DIR$/02_09_Begin/troubleshoot-latency-conc (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_10_Begin/troubleshoot-latency-conc (7).iml" filepath="$PROJECT_DIR$/02_10_Begin/troubleshoot-latency-conc (7).iml" />
+    </modules>
+  </component>
+</project>

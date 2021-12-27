@@ -1,0 +1,5 @@
+Throughput is a measurement of how many tasks an application can handle concurrently over a period of time.
+Latency is a measure of how long a single task takes.
+
+Concurrency - 1 CPU, Multiple time-sliced threads
+Parallelism - Multiple CPUs, Any number of threads
